@@ -466,3 +466,7 @@ appsettings.json
 
 # Ignore .idea
 .idea/
+
+# Ignore all files in Outputs except .gitkeep
+Outputs/*
+!Outputs/.gitkeep
